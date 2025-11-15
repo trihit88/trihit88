@@ -61,15 +61,16 @@ Re-usable templates for S3 → Snowflake, Kafka → DL, API → S3.
 *(Follow to get updates!)*
 
 ---
-
+<!--
 ## 📝 Latest Blog Posts
 *(Add links after publishing)*  
 - Snowflake vs. AWS Glue: Performance Optimization  
 - Building AI-Assisted ETL for Manual Feed Mapping  
 - Designing Enterprise-Grade Cloud Migration Pipelines  
 - Optimizing PySpark Jobs on AWS EMR  
-
 ---
+-->
+
 
 ## 🏆 Certifications
 - Microsoft Certified: **Azure Data Engineer**
@@ -81,7 +82,7 @@ Re-usable templates for S3 → Snowflake, Kafka → DL, API → S3.
 
 ## 🌱 Currently Learning
 - **Snowpark for Python**  
-- **dbt for analytics engineering**  
+- **Dbt for analytics engineering**  
 - **Delta Lake & Lakehouse patterns**  
 
 ---
